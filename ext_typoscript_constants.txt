@@ -1,0 +1,4 @@
+plugin.tx_fdfx3cols_pi1{
+    # cat=tx_fdfx3cols_pi1//; type=text; label= Template: Path and Name to Template (default: EXT:fdfx_3cols/tpl.3column.html)
+    TEMPLATE_FILE=EXT:fdfx_3cols/tpl.3column.html
+}
